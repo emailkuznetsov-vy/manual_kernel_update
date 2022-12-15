@@ -1,7 +1,7 @@
 MACHINES = {
   :"kernel-update" => {
-            :box_name => "centos8-kernel6",
-          #  :box_version =>"20210210.0",
+            :box_name => "emailkuznetsov-vy/centos8-kernel6",
+            :box_version =>"v1.0",
             :cpus => 2,
             :memory => 1024,
             }
